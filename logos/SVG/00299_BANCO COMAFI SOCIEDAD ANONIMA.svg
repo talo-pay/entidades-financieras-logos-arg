@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 290.81 290.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-3, .cls-4 {
+        isolation: isolate;
+        opacity: .65;
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-3);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="119.63" cy="171.93" fx="119.63" fy="171.93" r="98.25" gradientTransform="translate(0 292) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#adc46a"/>
+      <stop offset=".61" stop-color="#657733"/>
+      <stop offset="1" stop-color="#384125"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="144.83" cy="151.72" fx="144.83" fy="151.72" r="79.03" gradientTransform="translate(-4.54 297.75) scale(.98 -1.02)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".14" stop-color="#dfe4d7"/>
+      <stop offset=".45" stop-color="#a1ae8b"/>
+      <stop offset=".71" stop-color="#728551"/>
+      <stop offset=".9" stop-color="#556c31"/>
+      <stop offset="1" stop-color="#4a642e"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="146.03" cy="145.03" fx="146.03" fy="145.03" r="79.28" gradientTransform="translate(-5.02 284.66) scale(.98 -.98)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <path class="cls-2" d="M0,0v290.81h290.81V0H0Z"/>
+  <g>
+    <circle class="cls-1" cx="141.46" cy="144.87" r="58.44"/>
+    <path class="cls-3" d="M139.62,213.25h1.21c35.93,0,65.26-28.97,66.96-65.97h-68.17v65.97h0Z"/>
+    <path class="cls-4" d="M207.79,143.1c-.71-36.29-30.39-65.54-66.96-65.54h-1.21v65.54h68.17Z"/>
+  </g>
+</svg>
