@@ -236,7 +236,7 @@ const logos: Logos = {
       displayName: "Banco de Formosa",
     },
     "00319": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00319_BANCO%20CMF%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00315_BANCO%20CMF%20S.A.svg",
       legalName: "BANCO CMF S.A.",
       displayName: "Banco CMF",
     },
@@ -276,8 +276,8 @@ const logos: Logos = {
       displayName: "RCI Banque",
     },
     "00340": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00340_BACS%20BANCO%20DE%20CREDITO%20Y%20SECURITIZACION%20S.A.svg",
-      legalName: "BACS BANCO DE CREDITO Y SECURITIZACION S.A.",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/00340_BACS%20BANCO%20DE%20CREDITO%20Y%20SECURITIZACION%20S.svg",
+      legalName: "BACS BANCO DE CREDITO Y SECURITIZACION S.",
       displayName: "BACS Banco de Crédito",
     },
     "00341": {
@@ -346,7 +346,7 @@ const logos: Logos = {
       displayName: "FCA",
     },
     "44093": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44093_GPAT%20COMPAÑIA%20FINANCIERA%20S.A.U.%20copy.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/44093_GPAT%20COMPAÑIA%20FINANCIERA%20S.A.U.svg",
       legalName: "GPAT COMPAÑIA FINANCIERA S.A.U.",
       displayName: "GPAT",
     },
@@ -361,18 +361,18 @@ const logos: Logos = {
       displayName: "Rombo",
     },
     "44096": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44096_JOHN%20DEERE%20CREDIT%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/44096_JOHN%20DEERE%20CREDIT%20COMPAÑÍA%20FINANCIERA%20S.svg",
       legalName: "JOHN DEERE CREDIT COMPAÑÍA FINANCIERA S.A.",
       displayName: "John Deere Credit",
     },
     "44098": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44098_PSA%20FINANCE%20ARGENTINA%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
-      legalName: "PSA FINANCE ARGENTINA COMPAÑÍA FINANCIERA S.A.",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44098_PSA%20FINANCE%20ARGENTINA%20COMPAÑÍA%20FINANCIER.svg",
+      legalName: "PSA FINANCE ARGENTINA COMPAÑÍA FINANCIERA",
       displayName: "PSA Finance Argentina",
     },
     "44099": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44099_TOYOTA%20COMPAÑÍA%20FINANCIERA%20DE%20ARGENTINA%20S.A.svg",
-      legalName: "TOYOTA COMPAÑÍA FINANCIERA DE ARGENTINA S.A.",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44099_TOYOTA%20COMPAÑÍA%20FINANCIERA%20DE%20ARGENTINA.svg",
+      legalName: "TOYOTA COMPAÑÍA FINANCIERA DE ARGENTINA",
       displayName: "Toyota",
     },
     "45030": {
@@ -381,17 +381,17 @@ const logos: Logos = {
       displayName: "Naranja Digital",
     },
     "45056": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45056_MONTEMAR%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/45056_MONTEMAR%20COMPAÑIA%20FINANCIERA%20S.A.svg",
       legalName: "MONTEMAR COMPAÑIA FINANCIERA S.A.",
       displayName: "Montemar",
     },
     "45072": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45072_REBA%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/45072_REBA%20COMPAÑIA%20FINANCIERA%20S.A.svg",
       legalName: "REBA COMPAÑIA FINANCIERA S.A.",
       displayName: "Reba",
     },
     "65203": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/65203_CREDITO%20REGIONAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/65203_CRÉDITO%20REGIONAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
       legalName: "CRÉDITO REGIONAL COMPAÑÍA FINANCIERA S.A.",
       displayName: "Crédito Regional",
     },
