@@ -43,7 +43,7 @@ const logos: Logos = {
     "00017": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00017_BANCO%20BBVA%20ARGENTINA%20S.A.svg",
       legalName: "BANCO BBVA ARGENTINA S.A.",
-      displayName: "BBVA Argentina",
+      displayName: "BBVA",
     },
     "00020": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00020_BANCO%20DE%20LA%20PROVINCIA%20DE%20CORDOBA%20S.A.svg",
@@ -106,13 +106,13 @@ const logos: Logos = {
       displayName: "Banco de Corrientes",
     },
     "00097": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00097_BANCO%20PROVINCIA%20DEL%20NEUQUÉN%20SOCIEDAD%20ANÓNIMA.svg",
-      legalName: "BANCO PROVINCIA DEL NEUQUÉN SOCIEDAD ANÓNIMA",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00097_BANCO%20PROVINCIA%20DEL%20NEUQUÉN%20SOCIEDAD%20ANÓ.svg",
+      legalName: "BANCO PROVINCIA DEL NEUQUÉN SOCIEDAD ANÓ",
       displayName: "Banco Neuquén",
     },
     "00131": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00131_BANK%20OF%20CHINA%20LIMITED%20SUCURSAL%20BUENOS%20AIRES.svg",
-      legalName: "BANK OF CHINA LIMITED SUCURSAL BUENOS AIRES",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/43dfae395835ac79856fcf640669f3d008cd75df/logos/SVG/00131_BANK%20OF%20CHINA%20LIMITED%20SUCURSAL%20BUENOS%20AI.svg",
+      legalName: "BANK OF CHINA LIMITED SUCURSAL BUENOS AI",
       displayName: "Bank of China",
     },
     "00143": {
@@ -136,8 +136,8 @@ const logos: Logos = {
       displayName: "Open Bank",
     },
     "00165": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00165_JPMORGAN%20CHASE%20BANK%2C%20NATIONAL%20ASSOCIATION.svg",
-      legalName: "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/43dfae395835ac79856fcf640669f3d008cd75df/logos/SVG/00165_JPMORGAN%20CHASE%20BANK%2C%20NATIONAL%20ASSOCIATIO.svg",
+      legalName: "JPMORGAN CHASE BANK, NATIONAL ASSOCIATIO",
       displayName: "JPMorgan Chase",
     },
     "00191": {
@@ -181,7 +181,7 @@ const logos: Logos = {
       displayName: "Banco República Oriental",
     },
     "00277": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00277_BANCO%20SAENZ%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/43dfae395835ac79856fcf640669f3d008cd75df/logos/SVG/00277_BANCO%20SAENZ%20S.A.svg",
       legalName: "BANCO SAENZ S.A.",
       displayName: "Banco Saenz",
     },
@@ -202,7 +202,7 @@ const logos: Logos = {
     },
     "00300": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/5e7b8b3eb436506a9fe74f08168aeae1aade297b/logos/SVG/00300_BANCO%20DE%20INVERSION%20Y%20COMERCIO%20EXTERIOR%20S.svg",
-      legalName: "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
+      legalName: "BANCO DE INVERSION Y COMERCIO EXTERIOR S.",
       displayName: "Banco de Inversión y Comercio Exterior",
     },
     "00301": {
@@ -214,6 +214,11 @@ const logos: Logos = {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00305_BANCO%20JULIO%20SOCIEDAD%20ANONIMA.svg",
       legalName: "BANCO JULIO SOCIEDAD ANONIMA",
       displayName: "Banco Julio",
+    },
+    "00309": {
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/43dfae395835ac79856fcf640669f3d008cd75df/logos/SVG/00309_BANCO%20RIOJA%20SOCIEDAD%20ANONIMA%20UNIPERSONAL.svg",
+      legalName: "BANCO RIOJA SOCIEDAD ANONIMA UNIPERSONAL",
+      displayName: "Banco Rioja",
     },
     "00310": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00310_BANCO%20DEL%20SOL%20S.A.svg",
@@ -332,7 +337,7 @@ const logos: Logos = {
     },
     "44088": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44088_VOLKSWAGEN%20FINANCIAL%20SERVICES%20COMPAÑIA%20F.svg",
-      legalName: "VOLKSWAGEN FINANCIAL SERVICES COMPAÑIA FINANCIERA S.A.",
+      legalName: "VOLKSWAGEN FINANCIAL SERVICES COMPAÑIA F",
       displayName: "Volkswagen Financial Services",
     },
     "44090": {
@@ -352,7 +357,7 @@ const logos: Logos = {
     },
     "44094": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44093_GPAT%20COMPAÑIA%20FINANCIERA%20S.A.U.%20copy.svg",
-      legalName: "MERCEDES-BENZ COMPAÑÍA FINANCIERA ARGENTINA S.A.",
+      legalName: "MERCEDES-BENZ COMPAÑÍA FINANCIERA ARGENT",
       displayName: "Mercedes-Benz",
     },
     "44095": {
@@ -362,12 +367,12 @@ const logos: Logos = {
     },
     "44096": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/be6b0782b1ae2835069f23ae02ec000587efd51f/logos/SVG/44096_JOHN%20DEERE%20CREDIT%20COMPAÑÍA%20FINANCIERA%20S.svg",
-      legalName: "JOHN DEERE CREDIT COMPAÑÍA FINANCIERA S.A.",
+      legalName: "JOHN DEERE CREDIT COMPAÑÍA FINANCIERA S.",
       displayName: "John Deere Credit",
     },
     "44098": {
       img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/44098_PSA%20FINANCE%20ARGENTINA%20COMPAÑÍA%20FINANCIER.svg",
-      legalName: "PSA FINANCE ARGENTINA COMPAÑÍA FINANCIERA",
+      legalName: "PSA FINANCE ARGENTINA COMPAÑÍA FINANCIER",
       displayName: "PSA Finance Argentina",
     },
     "44099": {
