@@ -176,8 +176,8 @@ const logos: Logos = {
       displayName: "Banco Tierra del Fuego",
     },
     "00269": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00269_BANCO%20DE%20LA%20REPÚBLICA%20ORIENTAL%20DEL%20URUGUAY.svg",
-      legalName: "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/5e7b8b3eb436506a9fe74f08168aeae1aade297b/logos/SVG/00269_BANCO%20DE%20LA%20REPUBLICA%20ORIENTAL%20DEL%20URUGU.svg",
+      legalName: "BANCO DE LA REPUBLICA ORIENTAL DEL URUGU",
       displayName: "Banco República Oriental",
     },
     "00277": {
@@ -201,7 +201,7 @@ const logos: Logos = {
       displayName: "Banco Comafi",
     },
     "00300": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00300_BANCO%20DE%20INVERSION%20Y%20COMERCIO%20EXTERIOR%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/5e7b8b3eb436506a9fe74f08168aeae1aade297b/logos/SVG/00300_BANCO%20DE%20INVERSION%20Y%20COMERCIO%20EXTERIOR%20S.svg",
       legalName: "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
       displayName: "Banco de Inversión y Comercio Exterior",
     },
@@ -221,7 +221,7 @@ const logos: Logos = {
       displayName: "Banco del Sol",
     },
     "00311": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00311_NUEVO%20BANCO%20DEL%20CHACO%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/5e7b8b3eb436506a9fe74f08168aeae1aade297b/logos/SVG/00311_NUEVO%20BANCO%20DEL%20CHACO%20S.%20A.svg",
       legalName: "NUEVO BANCO DEL CHACO S.A.",
       displayName: "Nuevo Banco del Chaco",
     },
@@ -236,7 +236,7 @@ const logos: Logos = {
       displayName: "Banco de Formosa",
     },
     "00319": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00315_BANCO%20CMF%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/5e7b8b3eb436506a9fe74f08168aeae1aade297b/logos/SVG/00319_BANCO%20CMF%20S.A.svg",
       legalName: "BANCO CMF S.A.",
       displayName: "Banco CMF",
     },
