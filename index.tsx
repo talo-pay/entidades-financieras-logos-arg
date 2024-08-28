@@ -404,57 +404,57 @@ const logos: Logos = {
 
   psp: {
     "00031": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00007_BANCO%20GALICIA.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/00031_MERCADOLIBRE%20S.R.L.svg",
       legalName: "MERCADOLIBRE S.R.L",
       displayName: "Mercado Pago",
     },
     "01393": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00007_BANCO%20GALICIA.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/01393_PAXSYS%20S.A.svg",
       legalName: "PAXSYS S.A",
       displayName: "Belo",
     },
     "00029": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/00007_BANCO%20GALICIA.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/00029_NUBI%20S.A.svg",
       legalName: "NUBI S.A",
       displayName: "Nubi",
     },
     "0147": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/0147_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
       legalName: "NARANJA DIGITAL COMPAÑÍA FINANCIERA S.A",
       displayName: "Naranja X",
     },
     "00079": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/00079_ALAU%20TECNOLOGÍA%20S.A.U.svg",
       legalName: "ALAU TECNOLOGÍA S.A.U",
       displayName: "Ualá",
     },
     "01683": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/01683_DIGIFIN%20S.A.svg",
       legalName: "DIGIFIN S.A",
       displayName: "Lemon",
     },
     "00536": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/00536_FIWIND%20PAY%20S.A.svg",
       legalName: "FIWIND PAY S.A",
       displayName: "Fiwind",
     },
     "00765": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/00765_MICRO%20SISTEMAS%20S.A.U.svg",
       legalName: "MICRO SISTEMAS S.A.U",
       displayName: "Personal Pay",
     },
     "02167": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/02167_POLUX%20CAPITALS%20S.A.svg",
       legalName: "POLUX CAPITALS S.A",
       displayName: "Pollux",
     },
     "01478": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/01478_DIGIPAYMENTS%20S.A.svg",
       legalName: "DIGIPAYMENTS S.A",
       displayName: "Ripio",
     },
     "00857": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/00857_OPM%20ARGENTINA%20S.A.svg",
       legalName: "OPM ARGENTINA S.A",
       displayName: "Ripio",
     },
