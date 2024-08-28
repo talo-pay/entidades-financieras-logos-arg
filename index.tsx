@@ -419,7 +419,7 @@ const logos: Logos = {
       displayName: "Nubi",
     },
     "0147": {
-      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/b0de1b4c7e79760ec358d0d902f1d8f354495a84/logos/PSP/SVG/0147_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
+      img: "https://raw.githubusercontent.com/talo-pay/entidades-financieras-logos-arg/54f0b8848fdc38195a80c15b6610dd8050d4bd16/logos/SVG/45030_NARANJA%20DIGITAL%20COMPAÑÍA%20FINANCIERA%20S.A.svg",
       legalName: "NARANJA DIGITAL COMPAÑÍA FINANCIERA S.A",
       displayName: "Naranja X",
     },
